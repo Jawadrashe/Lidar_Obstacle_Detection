@@ -1,6 +1,8 @@
 // PCL lib Functions for processing point clouds 
 
 #include "processPointClouds.h"
+#include <boost/filesystem.hpp>
+#include <algorithm>
 
 
 //constructor:
